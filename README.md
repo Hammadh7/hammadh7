@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Hammad's GitHub | Stats](https://stats.quine.sh/Hammad/github?theme=light)](https://quine.sh)
+
 
 <!--
 **Hammadh7/hammadh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
