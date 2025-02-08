@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/hammad_h7" target="blank"><img src="https://img.shields.io/twitter/follow/hammad_h7?logo=twitter&style=for-the-badge" alt="hammad_h7" /></a> </p>
 
-- 🌱 I’m currently learning **a prefinal year undergrad at NIT-H**
+- 🌱 I’m currently  **a prefinal year undergrad at NIT-H**
 
-- 👨‍💻 All of my projects are available at [MVMV](MVMV)
+- 👨‍💻 All of my projects are available  [here](https://testt-swart-six.vercel.app/)
 
-- 📄 Know about my experiences [,,,](,,,)
-
-- ⚡ Fun fact **.....**
+- ⚡ Fun fact ** The number of transistors produced every year now exceeds the number of stars in the observable universe!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
