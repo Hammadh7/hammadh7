@@ -39,7 +39,7 @@
 
 ---
 
-### 🔭 CURRENTLY INTEREST IN  
+### 🔭 CURRENTLY INTERESTED IN  
 **AI INFRASTRUCTURE**
 **PROBLEM SOLVING**  
 **....**
