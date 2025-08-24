@@ -10,10 +10,9 @@
 - 👨‍💻   [Portfolio](hmmaad.me)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hammad_h7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammad_h7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hammad-hashmi-b278a625a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammad-hashmi-b278a625a" height="30" width="40" /></a>
+<p >
+![flames](https://github.com/user-attachments/assets/19690910-524a-40b8-98ed-12b55773d796)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
