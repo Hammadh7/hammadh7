@@ -6,8 +6,9 @@
 <p align="left"> <a href="https://twitter.com/hammad_h7" target="blank"><img src="https://img.shields.io/twitter/follow/hammad_h7?logo=twitter&style=for-the-badge" alt="hammad_h7" /></a> </p>
 
 - 🌱 I’m currently  **a final year undergrad at NIT-H**
-
-- 👨‍💻   [Portfolio](hmmaad.me)
+- ✌️ Trying to be better everyday
+- 🪼 Fun Fact - **The Cosmic Water Reservoir has 140 trillion times the volume of Earth's oceans**
+- 👨‍💻   ![Portfolio](hmmaad.me)
 
 
 
