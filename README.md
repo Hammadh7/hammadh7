@@ -40,8 +40,12 @@
 ---
 
 ### 🔭 CURRENTLY INTERESTED IN  
-**AI INFRASTRUCTURE**
+<img align="right" src="https://github.com/user-attachments/assets/5416fb0b-9f59-4318-8ac5-242b3425c79f" width="120">
+
+**AI INFRASTRUCTURE**  
 **PROBLEM SOLVING**  
 **....**
+
+
 
 
