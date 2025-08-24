@@ -8,7 +8,7 @@
 - 🌱 I’m currently  **a final year undergrad at NIT-H**
 - ✌️ Trying to be better everyday
 - 🪼 Fun Fact - **The Cosmic Water Reservoir has 140 trillion times the volume of Earth's oceans**
-- 👨‍💻 [Portfolio](https://hmmaad.me)
+- 🤍 [You can call me Hmmaad](https://hmmaad.me)
 
 
 
